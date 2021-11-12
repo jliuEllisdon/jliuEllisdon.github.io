@@ -4,8 +4,7 @@
     "models": [
         {
             "id": "design",
-            "name": "Halton MEP",
-            "backfaces": false
+            "name": "Halton MEP"
         }
     ],
     "viewerConfigs": {
@@ -24,8 +23,6 @@
         "tabOpen": "classes",
         "expandObjectsTree": 3,
         "expandClassesTree": 1,
-        "expandStoreysTree": 1,
-        "saoEnabled": "true",
-        "objectColorSource": "viewer"
+        "expandStoreysTree": 1
     }
 }
