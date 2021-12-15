@@ -26,6 +26,22 @@
         {
             "id": "str",
             "name": "Hospital Structural"
+        },
+		{
+            "id": "security",
+            "name": "Hospital Security"
+        },
+		{
+            "id": "elec",
+            "name": "Hospital Electrical"
+        },
+		{
+            "id": "cont",
+            "name": "Hospital Cont"
+        },
+		{
+            "id": "federated",
+            "name": "Hospital Federated"
         }
     ],
     "viewerConfigs": {
