@@ -38,10 +38,6 @@
 		{
             "id": "cont",
             "name": "Hospital Cont"
-        },
-		{
-            "id": "federated",
-            "name": "Hospital Federated"
         }
     ],
     "viewerConfigs": {
