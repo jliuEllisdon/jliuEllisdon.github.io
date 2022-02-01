@@ -28,16 +28,12 @@
             "name": "Hospital Structural"
         },
 		{
-            "id": "security",
-            "name": "Hospital Security"
+            "id": "chiller",
+            "name": "Hospital Chiller"
         },
 		{
-            "id": "elec",
-            "name": "Hospital Electrical"
-        },
-		{
-            "id": "cont",
-            "name": "Hospital Cont"
+            "id": "heaters",
+            "name": "Hospital Heaters"
         }
     ],
     "viewerConfigs": {
