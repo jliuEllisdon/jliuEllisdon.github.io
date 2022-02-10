@@ -34,6 +34,10 @@
 		{
             "id": "heaters",
             "name": "Hospital Heaters"
+        },
+		{
+            "id": "boilers",
+            "name": "Hospital Boilers"
         }
     ],
     "viewerConfigs": {
